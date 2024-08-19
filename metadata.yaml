@@ -1,5 +1,8 @@
 _repo: My-experiences-while-out-of-my-body-b-and-my-return-after-many-days_74135
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74135-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Richmond, Cora L. V. (Cora Linn Victoria)
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '57358'
     url: http://www.gutenberg.org/2009/agents/57358
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74135#My-experiences-while-out-of-my-body-b-and-my-return-after-many-days
 gutenberg_issued: '2024-07-27'
 gutenberg_type: Text
 identifiers:
